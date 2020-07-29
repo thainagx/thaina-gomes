@@ -6,5 +6,4 @@ In my free time I like to play (and watch) sports (⚽️), to watch movies (�
 
 Would you like to find me?
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-thaina-gomes.com-black)](https://www.facebook.com/thaina.gomes.792303/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-gomes-b373a2191/)](https://www.linkedin.com/in/thaina-gomes-b373a2191/)
