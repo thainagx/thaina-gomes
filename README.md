@@ -1,4 +1,4 @@
-![Thiago Marinho](https://makemybazaar.com/wp-content/uploads/2019/03/web-development-4.jpg)
+![Thaina Gomes](https://makemybazaar.com/wp-content/uploads/2019/03/web-development-4.jpg)
 
 <h2 style="text-align: center;">♥️ Hi there 👋 Thaina coding here :computer:</h2>
 
@@ -23,16 +23,13 @@
 
 <td>
 
-[
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaina-gomes-b373a2191/](https://www.linkedin.com/in/thaina-gomes-b373a2191/)
-)]([https://www.linkedin.com/in/thaina-gomes-b373a2191/](https://www.linkedin.com/in/thaina-gomes-b373a2191/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-gomes-b373a2191/)](https://www.linkedin.com/in/thaina-gomes-b373a2191/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/thaina.gomes1/](https://www.instagram.com/thaina.gomes1/))]([https://www.instagram.com/thaina.gomes1/](https://www.instagram.com/thaina.gomes1/)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thaina.gomes1/)](https://www.instagram.com/thaina.gomes1/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=[https://twitter.com/thainag0mes](https://twitter.com/thainag0mes))]([https://twitter.com/thainag0mes](https://twitter.com/thainag0mes)) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/thainag0mes/)](https://twitter.com/thainag0mes/)
 
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[[https://codepen.io/thaina-gomes](https://codepen.io/thaina-gomes)](https://codepen.io/thaina-gomes))]([https://codepen.io/thaina-gomes](https://codepen.io/thaina-gomes))
-
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/thaina-gomes](https://codepen.io/thaina-gomes))](https://codepen.io/thaina-gomes)
 
 
 </td>
