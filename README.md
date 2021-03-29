@@ -1,9 +1,12 @@
-# Hey 👋 
+![Thaina Gomes](https://github.com/thainaga/thaina-gomes/blob/master/mulheresnati.png)
 
-- 🌎  &nbsp; From São Paulo, living in Espírito Santo.
-- 📚  &nbsp; I'm a student of Computer Engineering at the University Federal of Espírito Santo.
-- 💼  &nbsp; I’m currently working as a Web Developer at [Adapti Jr](https://adapti.info/).                                                                          
-- ⚡  &nbsp; I’m currently learning HTML, CSS, Javascript and Laravel
-- 📫  &nbsp; How to talk to me: <i>thainaga7@gmail.com</i>  
+# Hi! Thaina coding here 👋🏾
+
+> #### "Dreaming big and dreaming small require the same effort." 🎈
+
+-   🌎  I'm from São Paulo, living in Espírito Santo.
+-   📚  I'm a student of Computer Engineering at the University Federal of Espírito Santo.
+-   ⚡  I'm a student researcher of a Scientific Initiation, where I study the use of REDCap in clinical research.
+-   📫  How to talk to me:  _[thainaga7@gmail.com](mailto:thainaga7@gmail.com)_
       
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-gomes-araujo/)](https://www.linkedin.com/in/thaina-gomes-araujo/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thainagx/)](https://www.instagram.com/thainagx/) 
